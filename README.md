@@ -13,6 +13,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" height=70 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height=70 />
 </div>
-
-Due to how github has been with their downtimes and unrelibility i have decided to switch to gitlab and projects will no longer be pushed here </br>
-profile -> https://gitlab.com/pizza5803
